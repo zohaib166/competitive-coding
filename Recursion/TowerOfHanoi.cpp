@@ -13,7 +13,7 @@ void tower_of_hanoi(int n, char from_rod, char to_rod, char extra_rod) {
 }
 int main()
 {
-    int n=4;
+    int n=3;
     tower_of_hanoi(n,'A', 'C', 'B');
     return 0;
 }
