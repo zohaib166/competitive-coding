@@ -1,11 +1,19 @@
 #include <iostream>
 using namespace std;
-//Note: this code does not print anything
+
 class Node {
 public:
     int data;
     Node* next;
 };
+
+void printList(Node* n) {
+    while(n!=NULL) {
+        cout << n->data << " ";
+        n = n->next;
+    }
+
+}
 
 int main()
 {
@@ -23,5 +31,7 @@ int main()
     //add data to third node and make it point to null as it is the last node
     third->data = 3;
     third->next = NULL;
+
+    printList(head);
     return 0;
 }
