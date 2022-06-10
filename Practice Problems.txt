@@ -1,46 +1,36 @@
 ﻿Practice Problems Day 1
-1. https://www.codechef.com/submit-v2/RECTANGL
-2. https://www.codechef.com/submit-v2/HOWMANY
-3. https://www.codechef.com/submit-v2/MIXTURE
-4. https://www.codechef.com/submit-v2/VOWELTB
-5. https://www.codechef.com/submit-v2/FLOW014
+1. https://www.codechef.com/submit-v2/CHFSPL
+2. https://www.codechef.com/submit-v2/RECTANGL
+3. https://www.codechef.com/submit-v2/HOWMANY
+4. https://www.codechef.com/submit-v2/MIXTURE
+5. https://www.codechef.com/submit-v2/VOWELTB
 
+6. https://www.codechef.com/submit-v2/FLOW014
+7. https://www.codechef.com/submit-v2/GOODWEAT
+8. https://www.codechef.com/submit-v2/GENE01
+9. https://www.codechef.com/submit-v2/SUPCHEF
+10. https://www.codechef.com/submit-v2/WORDLE
 
-Practice Problems Day 2
-6. https://www.codechef.com/submit-v2/GOODWEAT
-7. https://www.codechef.com/submit-v2/GENE01
-8. https://www.codechef.com/submit-v2/SUPCHEF
-9. https://www.codechef.com/submit-v2/WORDLE
-10. https://www.codechef.com/submit-v2/HARDBET
+11. https://www.codechef.com/submit-v2/HARDBET
+12. https://www.codechef.com/submit-v2/LAZYCHF
+13. https://www.codechef.com/submit-v2/RCBPLAY
+14. https://www.codechef.com/submit-v2/TEST
+15. https://www.codechef.com/submit-v2/PASSORFAIL
 
+16. https://www.codechef.com/submit-v2/HS08TEST
+17. https://www.codechef.com/submit-v2/MATCHES
+18. https://www.codechef.com/submit-v2/INTEST
+19. https://www.codechef.com/submit-v2/PRACTICEPERF
+20. https://www.codechef.com/submit-v2/PLAYSTR
 
-Practice Problems Day 3
-11. https://www.codechef.com/submit-v2/LAZYCHF
-12. https://www.codechef.com/submit-v2/RCBPLAY
-13. https://www.codechef.com/submit-v2/TEST
-14. https://www.codechef.com/submit-v2/PASSORFAIL
-15. https://www.codechef.com/submit-v2/HS08TEST
+21. https://www.codechef.com/submit-v2/LONGSEQ
+22. https://www.codechef.com/submit-v2/CAPPLE
+23. https://www.codechef.com/submit-v2/PALL01
+24. https://www.codechef.com/submit-v2/SIXFRIENDS
+25. https://www.codechef.com/submit-v2/AREAPERI
 
-
-Practice Problems Day 4
-16. https://www.codechef.com/submit-v2/MATCHES
-17. https://www.codechef.com/submit-v2/INTEST
-18. https://www.codechef.com/submit-v2/PRACTICEPERF
-19. https://www.codechef.com/submit-v2/PLAYSTR
-20. https://www.codechef.com/submit-v2/LONGSEQ
-
-
-Practice Problems Day 5
-21. https://www.codechef.com/submit-v2/CAPPLE
-22. https://www.codechef.com/submit-v2/PALL01
-23. https://www.codechef.com/submit-v2/SIXFRIENDS
-24. https://www.codechef.com/submit-v2/AREAPERI
-25. https://www.codechef.com/submit-v2/TWOVSTEN
-
-
-Practice Problems Day 6
-26. https://www.codechef.com/submit-v2/RECTSQ
-27. https://www.codechef.com/submit-v2/NW1
-28. https://www.codechef.com/submit-v2/CHFM
-29. https://www.codechef.com/submit-v2/XORAGN
-30.
+26. https://www.codechef.com/submit-v2/TWOVSTEN
+27. https://www.codechef.com/submit-v2/RECTSQ
+28. https://www.codechef.com/submit-v2/NW1
+29. https://www.codechef.com/submit-v2/CHFM
+30. https://www.codechef.com/submit-v2/XORAGN
