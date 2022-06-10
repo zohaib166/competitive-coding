@@ -1,4 +1,4 @@
-﻿Practice Problems Day 1
+﻿Practice Problems Codechef
 1. https://www.codechef.com/submit-v2/CHFSPL
 2. https://www.codechef.com/submit-v2/RECTANGL
 3. https://www.codechef.com/submit-v2/HOWMANY
