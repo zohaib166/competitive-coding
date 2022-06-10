@@ -20,7 +20,6 @@ void permute(int arr[], int firstidx, int lastidx, int N) {
     }
 }
 
-int [][] 
 int main() 
 {
     int a[] = {1,2,3,4};

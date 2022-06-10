@@ -14,5 +14,5 @@ bool subsets(int arr[], int n, int idx, int k, int sum) {
 int main() {
     int arr[] = {2, 3, 10, 12, 8};
     int sum = 0;
-    cout << subsets(arr, 5, 0, 4, sum);
+    cout << subsets(arr, 5, 0, 20, sum);
 }
