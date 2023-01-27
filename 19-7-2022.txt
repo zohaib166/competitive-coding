@@ -1,0 +1,14 @@
+Discussions in meeting (19-7-2022):
+Putting quizzes on Telegram group
+I (Zohaib) will put a competitive coding challange every morning
+
+Pick one language:
+Monday: Jayesh, Anupam -> C
+Tuesday: Aman -> C++
+Wednesday: Harshita, Chhavi -> Java
+Thursday: Ram -> Python
+
+Online platforms: quizizz.com, mentimeter.com
+(Friday to Sunday) -> To be planned
+
+

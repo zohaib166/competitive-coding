@@ -26,18 +26,12 @@ int main()
             cin >> temp;
             arr.push_back(temp);
         }
-
         for(int i=0; i<arr.size()-1; i++) {
-
             int min = *min_element(arr.begin()+i, arr.end());
-
             auto j = find(arr.begin()+i, arr.end(), min);
-
             reverse(arr.begin(),j);
-
             cost = cost + distance(arr.begin(), j) - i + 1;
         }
-
         cout << cost;
     }
     return 0;
